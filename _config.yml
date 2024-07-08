@@ -30,7 +30,7 @@ github_username:  harleen
 repository: harleen/harleen.github.io
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: minima
 plugins:
   - jekyll-feed
 
