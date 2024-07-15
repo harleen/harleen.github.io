@@ -1,21 +1,9 @@
 ---
 layout: post
-title:  "Welcome to Chaai!"
+title:  "What can Chaai do?"
 date:   2024-07-08 09:34:19 -0700
 categories: chaai update
 ---
-Meet Chaai, your intelligent home coach and assistant designed to help you manage your home, enhance your family's well-being, and improve your quality of life. [✍️ Sign Up Now!]({% post_url 2024-07-09-sign-up-for-beta %})
-
-<img src="{{site.baseurl}}/assets/images/1.png">{:width="50%"}
-
-<img src="{{site.baseurl}}/assets/images/2.png">{:width="50%"}
-
-<img src="{{site.baseurl}}/assets/images/3.png">{:width="50%"}
-
-<img src="{{site.baseurl}}/assets/images/4.png">{:width="50%"}
-
-<img src="{{site.baseurl}}/assets/images/5.png">{:width="50%"}
-
 
 `Calendar Features`
 

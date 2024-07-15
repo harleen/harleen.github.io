@@ -1,0 +1,28 @@
+---
+---
+
+@import "minima";
+
+/* Custom styles */
+.image-grid {
+  display: flex;
+  flex-direction: column;
+}
+
+.row {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 20px;
+}
+
+.column {
+  flex: 1;
+  margin: 5px;
+}
+
+.column img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
