@@ -1,12 +1,9 @@
 ---
 layout: post
 title:  "Chaai's Privacy Policy"
-date:   2024-07-31 09:34:19 -0700
+date:   2024-08-25 09:34:19 -0700
 categories: chaai privacy policy
 ---
-# Chaai Privacy Policy
-## Chaai
-## Privacy Policy
 
 **Effective Date: August 25, 2024**
 
