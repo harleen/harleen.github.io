@@ -50,10 +50,12 @@ We will not share, rent, sell or otherwise disclose any Personal Data that we co
 Chaai Partners. We may disclose Personal Data that we collect about you to our third-party services who perform services for us in connection with the Services, or to complete or confirm a transaction or series of transactions that you conduct with us. We may share data when you initiate a request for a specific event or events. 
 
 We will share your data only to help execute on a request you’ve requested, and only to the extent necessary to fulfill the request. Each Chaai Partner has their own privacy or similar-type policy which is listed below. Chaai is not responsible for the information collected by Chaai Partners. Chaai Partners include the following:
-a. OpenAI privacy policy – The following data is shared with OpenAI:
+
+a. <a href="https://openai.com/policies/row-privacy-policy/">OpenAI privacy policy</a> – The following data is shared with OpenAI:
 - Your instructions
 - Google Calendar Data (Title, Description, Location, Start Time, End Time, Attendee emails, Recurrence)
 - Images, such as physical calendars, screenshots or images of meals
+- Other relevant data that Chaai has saved on your device e.g. meals in your database, email address of your partner
 
 ### Retention and Deletion of Your Data
 
