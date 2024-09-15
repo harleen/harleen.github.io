@@ -74,7 +74,7 @@ You agree to indemnify, hold harmless and defend Us (including Our shareholders,
 
 ### 9. DISPUTE RESOLUTION
 ARBITRATION. ANY CLAIM, DISPUTE OR CONTROVERSY (WHETHER IN CONTRACT, TORT OR OTHERWISE, WHETHER PRE-EXISTING, PRESENT OR FUTURE, AND INCLUDING STATUTORY, COMMON LAW, INTENTIONAL TORT AND EQUITABLE CLAIMS CAPABLE IN LAW OF BEING SUBMITTED TO BINDING ARBITRATION) AGAINST US, SHALL BE RESOLVED EXCLUSIVELY AND FINALLY BY BINDING ARBITRATION ADMINISTERED BY THE AMERICAN ARBITRATION ASSOCIATION LOCATED IN SAN FRANCISCO,
-MASSACHUSETTS. The arbitration will be limited solely to the dispute or controversy between You and Us. Any award of the arbitrator(s) shall be final and binding on each party and may be entered as a judgment in any court of competent jurisdiction.
+CALIFORNIA. The arbitration will be limited solely to the dispute or controversy between You and Us. Any award of the arbitrator(s) shall be final and binding on each party and may be entered as a judgment in any court of competent jurisdiction.
 
 ### 10. FEEDBACK.
 You may, from time to time, voluntarily make known to Us suggestions, enhancement requests, techniques, know-how, comments, feedback, or other input with respect to the Service (collectively, "Feedback"). You agree that We own all such Feedback without any obligation to pay You any fee or royalty for such.
@@ -85,7 +85,7 @@ You may, from time to time, voluntarily make known to Us suggestions, enhancemen
 
 11.2 Severability. The provisions of this Agreement are to be considered separately, and if any provision hereof should be found by any court or competent jurisdiction to be invalid or unenforceable, this Agreement will be deemed to have effect as if such provision were severed from this Agreement.
 
-11.3 Governing Law. This Agreement is subject to the laws of the Commonwealth of Massachusetts excluding any conflict of laws provisions.
+11.3 Governing Law. This Agreement is subject to the laws of the Commonwealth of California excluding any conflict of laws provisions.
 
 11.4 Revisions. We may at any time revise the terms of this Agreement by updating these terms and by providing reasonable notice to you of that change. We are continually working to make Our Services better for our users. This means that our Services can and will change over time. We may augment, modify, discontinue, or suspend any part of our Services at any time. We will work to provide advance notice to you where appropriate, but you acknowledge that this may not always be possible. The use of any of Our Services after such an amendment to the Terms shall be considered an acceptance of all changes to the Terms. If You do not agree with the revised Terms, you must immediately cease any use of our Services.
 
